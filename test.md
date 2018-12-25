@@ -3,6 +3,6 @@ title: "Test"
 author: "Edon"
 ---
 
-Dit is een tekst.
+Dit is an tekst.
 
 Een ander stukje tekst.
